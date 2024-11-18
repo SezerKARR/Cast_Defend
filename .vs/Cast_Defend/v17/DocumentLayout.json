@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\yedek 2371\\unity\\oyunlar\\Cast_Defend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADCA9C1-440E-1386-8662-D7990EBFBC9B}|Assembly-CSharp.csproj|d:\\yedek 2371\\unity\\oyunlar\\cast_defend\\assets\\script\\tooltipsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADCA9C1-440E-1386-8662-D7990EBFBC9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tooltipsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADCA9C1-440E-1386-8662-D7990EBFBC9B}|Assembly-CSharp.csproj|d:\\yedek 2371\\unity\\oyunlar\\cast_defend\\assets\\script\\tooltiptrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADCA9C1-440E-1386-8662-D7990EBFBC9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tooltiptrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADCA9C1-440E-1386-8662-D7990EBFBC9B}|Assembly-CSharp.csproj|d:\\yedek 2371\\unity\\oyunlar\\cast_defend\\assets\\script\\tooltip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADCA9C1-440E-1386-8662-D7990EBFBC9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\tooltip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADCA9C1-440E-1386-8662-D7990EBFBC9B}|Assembly-CSharp.csproj|d:\\yedek 2371\\unity\\oyunlar\\cast_defend\\assets\\script\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADCA9C1-440E-1386-8662-D7990EBFBC9B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToolTipTrigger.cs",
+              "DocumentMoniker": "D:\\yedek 2371\\unity\\oyunlar\\Cast_Defend\\Assets\\Script\\ToolTipTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ToolTipTrigger.cs",
+              "ToolTip": "D:\\yedek 2371\\unity\\oyunlar\\Cast_Defend\\Assets\\Script\\ToolTipTrigger.cs",
+              "RelativeToolTip": "Assets\\Script\\ToolTipTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:47:52.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToolTipSystem.cs",
+              "DocumentMoniker": "D:\\yedek 2371\\unity\\oyunlar\\Cast_Defend\\Assets\\Script\\ToolTipSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ToolTipSystem.cs",
+              "ToolTip": "D:\\yedek 2371\\unity\\oyunlar\\Cast_Defend\\Assets\\Script\\ToolTipSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\ToolTipSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:47:15.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToolTip.cs",
+              "DocumentMoniker": "D:\\yedek 2371\\unity\\oyunlar\\Cast_Defend\\Assets\\Script\\ToolTip.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ToolTip.cs",
+              "ToolTip": "D:\\yedek 2371\\unity\\oyunlar\\Cast_Defend\\Assets\\Script\\ToolTip.cs",
+              "RelativeToolTip": "Assets\\Script\\ToolTip.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:46:48.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "D:\\yedek 2371\\unity\\oyunlar\\Cast_Defend\\Assets\\Script\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIController.cs",
+              "ToolTip": "D:\\yedek 2371\\unity\\oyunlar\\Cast_Defend\\Assets\\Script\\UIController.cs",
+              "RelativeToolTip": "Assets\\Script\\UIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T05:46:02.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
